@@ -21,3 +21,21 @@ After working on our branches, we pushed the changes to GitHub. Each branch was 
 Once we completed our tasks, we switched to the main branch and merged both Aiman and Batool branches. This process combined all our work into a single, unified version of the project.
 9.	Final Push of the Merged Code:
 Finally, we pushed the main branch with all merged code to GitHub, completing the project setup and ensuring the latest version was accessible for future development or review.
+Tools and Technologies Used
+•	Git: Used for version control to track changes and support collaborative workflows.
+•	GitHub: Online hosting for the repository, allowing seamless collaboration between team members.
+•	Git Bash: Command-line tool used to execute Git commands and manage the project.
+Key Actions Log
+1.	Project Setup:
+Cloned the GitHub repository and initialized Git to start tracking the project changes.
+2.	Branching and Task Assignment:
+Created separate branches for each team member, allowing independent work on distinct parts of the project without conflicts.
+3.	File Addition and Editing:
+o	Aiman's Branch: Added and structured index.html and styled the website with style.css.
+o	Batool's Branch: Added JavaScript functionality with script.js and organized images in the assets folder.
+4.	Version Control with Commit Messages:
+Committed changes with meaningful messages to describe the purpose of each update, aiding in clear version control.
+5.	Collaboration and Merging:
+Pushed individual branches to GitHub, then merged them into the main branch to consolidate all changes.
+6.	Finalization:
+Pushed the final merged version of the main branch to GitHub, completing the project setup.
